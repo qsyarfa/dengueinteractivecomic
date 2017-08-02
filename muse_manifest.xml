@@ -1,0 +1,58 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="dengueinteractivecomic.com" resolutions="1x" timestamp="1501678782403">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="3842200942" ref="index"/>
+    <file name="story.css" crc="39847846" ref="story"/>
+    <file name="survey.css" crc="384126023" ref="survey"/>
+    <file name="about.css" crc="288437037" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="story:index:about:survey"/>
+    <file name="museutils.js" crc="4190794036" ref="story:index:about:survey"/>
+    <file name="whatinput.js" crc="84559013" ref="story:index:about:survey"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="story:index:about:survey"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="story:index:about:survey"/>
+    <file name="jquery.watch.js" crc="349565855" ref="story:index:about:survey"/>
+    <file name="html5shiv.js" crc="4241844378" ref="story:index:about:survey"/>
+  </folder>
+  <folder name="images">
+    <file name="u455-4.png" crc="3919140080" ref="story"/>
+    <file name="blank.gif" crc="4208392903" ref="story:index:about:survey"/>
+    <file name="u815.png" crc="4246946328" ref="story"/>
+    <file name="u815-a.png" crc="4246946328" ref="story"/>
+    <file name="u114-4-a.png" crc="4038439878" ref="story"/>
+    <file name="u1480.png" crc="44157472" ref="story"/>
+    <file name="u1480-a.png" crc="44157472" ref="story"/>
+    <file name="u1331.png" crc="494007455" ref="story"/>
+    <file name="u1331-a.png" crc="494007455" ref="story"/>
+    <file name="main project.swf" crc="533538862" ref="story"/>
+    <file name="u859-4-a.png" crc="4285420370" ref="index"/>
+    <file name="u804.png" crc="3985075137" ref="index"/>
+    <file name="u804-a.png" crc="3985075137" ref="index"/>
+    <file name="u1459.png" crc="431829667" ref="index"/>
+    <file name="u1459-a.png" crc="431829667" ref="index"/>
+    <file name="u1310.png" crc="3774162109" ref="index"/>
+    <file name="u1310-a.png" crc="3774162109" ref="index"/>
+    <file name="u1567-8.png" crc="3993498566" ref="index"/>
+    <file name="u1250.png" crc="4285420370" ref="about"/>
+    <file name="u1250-a.png" crc="4285420370" ref="about"/>
+    <file name="u1261.png" crc="3985075137" ref="about"/>
+    <file name="u1261-a.png" crc="3985075137" ref="about"/>
+    <file name="u1503.png" crc="431829667" ref="about"/>
+    <file name="u1503-a.png" crc="431829667" ref="about"/>
+    <file name="u1354-4-a.png" crc="3774162109" ref="about"/>
+    <file name="u1587-4.png" crc="3773273023" ref="about"/>
+    <file name="u1385.png" crc="4285420370" ref="survey"/>
+    <file name="u1385-a.png" crc="4285420370" ref="survey"/>
+    <file name="u1403.png" crc="3985075137" ref="survey"/>
+    <file name="u1403-a.png" crc="3985075137" ref="survey"/>
+    <file name="u1526-4-a.png" crc="431829667" ref="survey"/>
+    <file name="u1393.png" crc="3774162109" ref="survey"/>
+    <file name="u1393-a.png" crc="3774162109" ref="survey"/>
+    <file name="u1574-4.png" crc="4093261484" ref="survey"/>
+  </folder>
+  <file name="story.html" crc="4049697946" seo="true" mt="1501678585944" redirect="true"/>
+  <file name="index.html" crc="24178340" seo="true" mt="1501676292888" redirect="true"/>
+  <file name="about.html" crc="4096557762" seo="true" mt="1501676292893" redirect="true"/>
+  <file name="survey.html" crc="353192123" seo="true" mt="1501676471449" redirect="true"/>
+</manifest>
